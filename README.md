@@ -1,4 +1,4 @@
-# Directory-Tree
+# Next Starter
 
 ## Getting Started
 
