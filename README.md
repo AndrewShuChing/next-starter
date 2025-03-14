@@ -13,7 +13,7 @@
 
    ```bash
    git clone https://github.com/AndrewShuChing/next-starter.git
-   cd directory-tree
+   cd next-starter
    ```
 
 3. **Build and run the development environment**:
